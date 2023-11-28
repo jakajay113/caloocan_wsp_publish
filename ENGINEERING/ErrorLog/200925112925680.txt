@@ -1,0 +1,11 @@
+Time: 25/09/2020 11:29:25 AM
+-----------------------------------------------------------
+Message: Operation is not allowed when the object is closed.
+StackTrace:    at BPLTAS_BILLING_ONLINE._clssBilling.pSubProcessBilling()
+   at SPIDC.ClassInterop_VB6_BPLTAS._pSubGenerateTOP(Boolean& _xResult) in C:\Users\ARMSTERDAM\Desktop\IMC\SPIDC\Classes\ClassInterop_VB6_BPLTAS.vb:line 301
+Source: ADODB.Connection
+Exception: System.Runtime.InteropServices.COMException
+TargetSite: Void pSubProcessBilling()
+Dll Date Complied: 
+-----------------------------------------------------------
+

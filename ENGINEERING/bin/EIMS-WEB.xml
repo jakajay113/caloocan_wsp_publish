@@ -1,0 +1,2284 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EIMS-WEB
+</name>
+</assembly>
+<members>
+<member name="F:EIMS_WEB.DIVISION_SETUP._obtnSearch">
+	<summary>
+_obtnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._oGvDivisionSetup">
+	<summary>
+_oGvDivisionSetup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP.hdnCode">
+	<summary>
+hdnCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP.hdnDesc1">
+	<summary>
+hdnDesc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP.hdnDesc2">
+	<summary>
+hdnDesc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP.hdnAction">
+	<summary>
+hdnAction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP.hdnVal">
+	<summary>
+hdnVal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._obtnNew">
+	<summary>
+_obtnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._obtnDelete">
+	<summary>
+_obtnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._obtnPrev">
+	<summary>
+_obtnPrev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._obtnNext">
+	<summary>
+_obtnNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._obtnSave">
+	<summary>
+_obtnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._obtnCancel">
+	<summary>
+_obtnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._oTextCode">
+	<summary>
+_oTextCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._oTextAcronym">
+	<summary>
+_oTextAcronym control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._oTextDescription">
+	<summary>
+_oTextDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._oBtnSaveChanges">
+	<summary>
+_oBtnSaveChanges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._oTxtDescription">
+	<summary>
+_oTxtDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DIVISION_SETUP._obtnYes">
+	<summary>
+_obtnYes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:EIMS_WEB.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:EIMS_WEB.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:EIMS_WEB.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:EIMS_WEB.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:EIMS_WEB.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:EIMS_WEB.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:EIMS_WEB.APPLICATION_MASTER.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.APPLICATION_MASTER.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMSLogin.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMSLogin._oTxtUsername">
+	<summary>
+_oTxtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMSLogin.lblusererror">
+	<summary>
+lblusererror control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMSLogin._oTxtPassword">
+	<summary>
+_oTxtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMSLogin.lblpasserr">
+	<summary>
+lblpasserr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._obtnSearch">
+	<summary>
+_obtnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._oGvDepartmentSetup">
+	<summary>
+_oGvDepartmentSetup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP.hdnCode">
+	<summary>
+hdnCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP.hdnDesc1">
+	<summary>
+hdnDesc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP.hdnDesc2">
+	<summary>
+hdnDesc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP.hdnAction">
+	<summary>
+hdnAction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP.hdnVal">
+	<summary>
+hdnVal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._obtnNew">
+	<summary>
+_obtnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._obtnDelete">
+	<summary>
+_obtnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._obtnSave">
+	<summary>
+_obtnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._obtnCancel">
+	<summary>
+_obtnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._oTextCode">
+	<summary>
+_oTextCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._oTextAcronym">
+	<summary>
+_oTextAcronym control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._oTextDescription">
+	<summary>
+_oTextDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._oBtnSaveChanges">
+	<summary>
+_oBtnSaveChanges control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._oTxtDescription">
+	<summary>
+_oTxtDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.DEPARTMENT_SETUP._obtnYes">
+	<summary>
+_obtnYes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMS_MASTER.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMS_MASTER.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMS_MASTER.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.EIMS_MASTER.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnNew">
+	<summary>
+_oBtnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnEdit">
+	<summary>
+_oBtnEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnDeleteApplication">
+	<summary>
+_oBtnDeleteApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSaveApplication">
+	<summary>
+_oBtnSaveApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnCancel">
+	<summary>
+_oBtnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnBrowse">
+	<summary>
+_oBtnBrowse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnRequirements">
+	<summary>
+_oBtnRequirements control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnPrint">
+	<summary>
+_oBtnPrint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtAppNo">
+	<summary>
+_oTxtAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtAreaNo">
+	<summary>
+_oTxtAreaNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnApplicantSearch">
+	<summary>
+_oBtnApplicantSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtApplicantType">
+	<summary>
+_oTxtApplicantType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLName">
+	<summary>
+_oTxtLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtFName">
+	<summary>
+_oTxtFName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtMName">
+	<summary>
+_oTxtMName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTINNo">
+	<summary>
+_oTxtTINNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtFormofOwnership">
+	<summary>
+_oTxtFormofOwnership control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtNoStreet">
+	<summary>
+_oTxtNoStreet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtVillage">
+	<summary>
+_oTxtVillage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBarangay">
+	<summary>
+_oTxtBarangay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCityMunicipality">
+	<summary>
+_oTxtCityMunicipality control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtProvince">
+	<summary>
+_oTxtProvince control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtZipCode">
+	<summary>
+_oTxtZipCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTelephoneNo">
+	<summary>
+_oTxtTelephoneNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnLOCSearch">
+	<summary>
+_oBtnLOCSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotNoLOC">
+	<summary>
+_oTxtLotNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBlkNoLOC">
+	<summary>
+_oTxtBlkNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTCTNoLOC">
+	<summary>
+_oTxtTCTNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTDNLOC">
+	<summary>
+_oTxtTDNLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtStrtLOC">
+	<summary>
+_oTxtStrtLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBrgyLOC">
+	<summary>
+_oTxtBrgyLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCityLOC">
+	<summary>
+_oTxtCityLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oHdnSelectedScope">
+	<summary>
+_oHdnSelectedScope control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oGvScopeofWork">
+	<summary>
+_oGvScopeofWork control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.hdnCode">
+	<summary>
+hdnCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.hdnDesc1">
+	<summary>
+hdnDesc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.hdnDesc2">
+	<summary>
+hdnDesc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.hdnAction">
+	<summary>
+hdnAction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.hdnVal">
+	<summary>
+hdnVal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtOccupancyUse">
+	<summary>
+_oTxtOccupancyUse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtDivision">
+	<summary>
+_oTxtDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oGvAccessory">
+	<summary>
+_oGvAccessory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oHdnSelectedAccessory">
+	<summary>
+_oHdnSelectedAccessory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oChkTowersSS">
+	<summary>
+_oChkTowersSS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oChkTowersTG">
+	<summary>
+_oChkTowersTG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtOccupancy">
+	<summary>
+_oTxtOccupancy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtNumberofUnits">
+	<summary>
+_oTxtNumberofUnits control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtNumberofFloor">
+	<summary>
+_oTxtNumberofFloor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPerFloorArea">
+	<summary>
+_oTxtPerFloorArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTotalFloorArea">
+	<summary>
+_oTxtTotalFloorArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTotalEstimatedCost">
+	<summary>
+_oTxtTotalEstimatedCost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtProposedDateof">
+	<summary>
+_oTxtProposedDateof control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtEstimatedDateof">
+	<summary>
+_oTxtEstimatedDateof control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPreparedBy">
+	<summary>
+_oTxtPreparedBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnFISearch">
+	<summary>
+_oBtnFISearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectEngineer">
+	<summary>
+_oTxtArchitectEngineer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectDateSigned">
+	<summary>
+_oTxtArchitectDateSigned control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectAddress">
+	<summary>
+_oTxtArchitectAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectPTRNo">
+	<summary>
+_oTxtArchitectPTRNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectPRCNo">
+	<summary>
+_oTxtArchitectPRCNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectValidity">
+	<summary>
+_oTxtArchitectValidity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectTIN">
+	<summary>
+_oTxtArchitectTIN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectIssuedAt">
+	<summary>
+_oTxtArchitectIssuedAt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtArchitectDateIssued">
+	<summary>
+_oTxtArchitectDateIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtApplicantFullname">
+	<summary>
+_oTxtApplicantFullname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtApplicantDateSigned">
+	<summary>
+_oTxtApplicantDateSigned control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtApplicantAddress">
+	<summary>
+_oTxtApplicantAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtApplicantCTC">
+	<summary>
+_oTxtApplicantCTC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtApplicantPlaceIssued">
+	<summary>
+_oTxtApplicantPlaceIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtApplicantDateIssued">
+	<summary>
+_oTxtApplicantDateIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnLOConsentSearch">
+	<summary>
+_oBtnLOConsentSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotOwnerFullname">
+	<summary>
+_oTxtLotOwnerFullname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotOwnerDateSigned">
+	<summary>
+_oTxtLotOwnerDateSigned control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotOwnerAddress">
+	<summary>
+_oTxtLotOwnerAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotOwnerCTC">
+	<summary>
+_oTxtLotOwnerCTC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotOwnerPlaceIssued">
+	<summary>
+_oTxtLotOwnerPlaceIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotOwnerDateIssued">
+	<summary>
+_oTxtLotOwnerDateIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.myBrowseModal">
+	<summary>
+myBrowseModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oGvBrowse">
+	<summary>
+_oGvBrowse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.myUploadModal">
+	<summary>
+myUploadModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oCbApplication">
+	<summary>
+_oCbApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSearchApplication">
+	<summary>
+_oTxtSearchApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSearchApplication">
+	<summary>
+_oBtnSearchApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oGvUpload">
+	<summary>
+_oGvUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.myApplicantModal">
+	<summary>
+myApplicantModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oCbFilterApplicant">
+	<summary>
+_oCbFilterApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSearchApplicant">
+	<summary>
+_oTxtSearchApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSearchApplicant">
+	<summary>
+_oBtnSearchApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oGvApplicant">
+	<summary>
+_oGvApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.Switch1">
+	<summary>
+Switch1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.LeaveApplicant">
+	<summary>
+LeaveApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnNewApplicant">
+	<summary>
+_oBtnNewApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLNameApplicant">
+	<summary>
+_oTxtLNameApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtFNameApplicant">
+	<summary>
+_oTxtFNameApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtMNameApplicant">
+	<summary>
+_oTxtMNameApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTINNoApplicant">
+	<summary>
+_oTxtTINNoApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTelNoApplicant">
+	<summary>
+_oTxtTelNoApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtNoApplicant">
+	<summary>
+_oTxtNoApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotNoApplicant">
+	<summary>
+_oTxtLotNoApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBlkNoApplicant">
+	<summary>
+_oTxtBlkNoApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPhaseZoneApplicant">
+	<summary>
+_oTxtPhaseZoneApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtStreetApplicant">
+	<summary>
+_oTxtStreetApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSubdVillApplicant">
+	<summary>
+_oTxtSubdVillApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBrgyApplicant">
+	<summary>
+_oTxtBrgyApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCityApplicant">
+	<summary>
+_oTxtCityApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtProvinceApplicant">
+	<summary>
+_oTxtProvinceApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtRegionApplicant">
+	<summary>
+_oTxtRegionApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtZipCodeApplicant">
+	<summary>
+_oTxtZipCodeApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCNoApplicant">
+	<summary>
+_oTxtCTCNoApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPlaceIssuedApplicant">
+	<summary>
+_oTxtPlaceIssuedApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtDateIssuedApplicant">
+	<summary>
+_oTxtDateIssuedApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSaveApplicantInfo">
+	<summary>
+_oBtnSaveApplicantInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oCbFilterProfessional">
+	<summary>
+_oCbFilterProfessional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSearchProfessional">
+	<summary>
+_oTxtSearchProfessional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSearchProfessional">
+	<summary>
+_oBtnSearchProfessional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oGvProfessional">
+	<summary>
+_oGvProfessional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.Switch2">
+	<summary>
+Switch2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.LeaveProfessional">
+	<summary>
+LeaveProfessional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnNewProfessional">
+	<summary>
+_oBtnNewProfessional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLastNameProf">
+	<summary>
+_oTxtLastNameProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtFirstNameProf">
+	<summary>
+_oTxtFirstNameProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtMiddleNameProf">
+	<summary>
+_oTxtMiddleNameProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtNoProf">
+	<summary>
+_oTxtNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotNoProf">
+	<summary>
+_oTxtLotNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBlkNoProf">
+	<summary>
+_oTxtBlkNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPhaseZoneProf">
+	<summary>
+_oTxtPhaseZoneProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtStreetProf">
+	<summary>
+_oTxtStreetProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSubdVillProf">
+	<summary>
+_oTxtSubdVillProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBrgyProf">
+	<summary>
+_oTxtBrgyProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCityProf">
+	<summary>
+_oTxtCityProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtProvinceProf">
+	<summary>
+_oTxtProvinceProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtRegionProf">
+	<summary>
+_oTxtRegionProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtZipCodeProf">
+	<summary>
+_oTxtZipCodeProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtProfessionalTitle">
+	<summary>
+_oTxtProfessionalTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLiscenceNoProf">
+	<summary>
+_oTxtLiscenceNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtValidity">
+	<summary>
+_oTxtValidity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtMobileNo">
+	<summary>
+_oTxtMobileNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTelNoProf">
+	<summary>
+_oTxtTelNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTINNoProf">
+	<summary>
+_oTxtTINNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPTRNoProf">
+	<summary>
+_oTxtPTRNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPTRDateIssProf">
+	<summary>
+_oTxtPTRDateIssProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPTRIssuedAtProf">
+	<summary>
+_oTxtPTRIssuedAtProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPOAORNoProf">
+	<summary>
+_oTxtPOAORNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPOANoProf">
+	<summary>
+_oTxtPOANoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPOADateIssProf">
+	<summary>
+_oTxtPOADateIssProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPRCNoProf">
+	<summary>
+_oTxtPRCNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPRCDateIssuedProf">
+	<summary>
+_oTxtPRCDateIssuedProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPRCIssuedAtProf">
+	<summary>
+_oTxtPRCIssuedAtProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCNoProf">
+	<summary>
+_oTxtCTCNoProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCDateIssuedProf">
+	<summary>
+_oTxtCTCDateIssuedProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCIssuedAtProf">
+	<summary>
+_oTxtCTCIssuedAtProf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnProfessionalInfo">
+	<summary>
+_oBtnProfessionalInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oCbFilterLotOwner">
+	<summary>
+_oCbFilterLotOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSearchLotOwner">
+	<summary>
+_oTxtSearchLotOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSearchLotOwner">
+	<summary>
+_oBtnSearchLotOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oGvLotOwner">
+	<summary>
+_oGvLotOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.Switch4">
+	<summary>
+Switch4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.LeaveLotOwner">
+	<summary>
+LeaveLotOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnNewLotOwner">
+	<summary>
+_oBtnNewLotOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLastNameLO">
+	<summary>
+_oTxtLastNameLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtFirstNameLO">
+	<summary>
+_oTxtFirstNameLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtMiddleNameLO">
+	<summary>
+_oTxtMiddleNameLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTINNoLO">
+	<summary>
+_oTxtTINNoLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTelNoLO">
+	<summary>
+_oTxtTelNoLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtNoLO">
+	<summary>
+_oTxtNoLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotNoLO">
+	<summary>
+_oTxtLotNoLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBlkNoLO">
+	<summary>
+_oTxtBlkNoLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPhaseZoneLO">
+	<summary>
+_oTxtPhaseZoneLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtStreetLO">
+	<summary>
+_oTxtStreetLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSubdVillLO">
+	<summary>
+_oTxtSubdVillLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBrgyLO">
+	<summary>
+_oTxtBrgyLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCityLO">
+	<summary>
+_oTxtCityLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtProvinceLO">
+	<summary>
+_oTxtProvinceLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtRegionLO">
+	<summary>
+_oTxtRegionLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtZipCodeLO">
+	<summary>
+_oTxtZipCodeLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotNoLOCLO">
+	<summary>
+_oTxtLotNoLOCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBlkNoLOCLO">
+	<summary>
+_oTxtBlkNoLOCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTCTNoLOCLO">
+	<summary>
+_oTxtTCTNoLOCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTDNLOCLO">
+	<summary>
+_oTxtTDNLOCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPINLOCLO">
+	<summary>
+_oTxtPINLOCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtStrtLOCLO">
+	<summary>
+_oTxtStrtLOCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBrgyLOCLO">
+	<summary>
+_oTxtBrgyLOCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCityLOCLO">
+	<summary>
+_oTxtCityLOCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCLO">
+	<summary>
+_oTxtCTCLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCPlaceIssLO">
+	<summary>
+_oTxtCTCPlaceIssLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCDateIssLO">
+	<summary>
+_oTxtCTCDateIssLO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSaveLotOwner">
+	<summary>
+_oBtnSaveLotOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oCbFilterBldgOwner">
+	<summary>
+_oCbFilterBldgOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSearchBldgOwner">
+	<summary>
+_oTxtSearchBldgOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSearchBldgOwner">
+	<summary>
+_oBtnSearchBldgOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oGvBldgOwner">
+	<summary>
+_oGvBldgOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.Switch3">
+	<summary>
+Switch3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION.LeaveBldgOwner">
+	<summary>
+LeaveBldgOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnNewBldgOwner">
+	<summary>
+_oBtnNewBldgOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLastNameBO">
+	<summary>
+_oTxtLastNameBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtFirstNameBO">
+	<summary>
+_oTxtFirstNameBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtMiddleNameBO">
+	<summary>
+_oTxtMiddleNameBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTINNoBO">
+	<summary>
+_oTxtTINNoBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTelNoBO">
+	<summary>
+_oTxtTelNoBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtNoBO">
+	<summary>
+_oTxtNoBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotNoBO">
+	<summary>
+_oTxtLotNoBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBlkNoBO">
+	<summary>
+_oTxtBlkNoBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPhaseZoneBO">
+	<summary>
+_oTxtPhaseZoneBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtStreetBO">
+	<summary>
+_oTxtStreetBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtSubdVillBO">
+	<summary>
+_oTxtSubdVillBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBrgyBO">
+	<summary>
+_oTxtBrgyBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCityBO">
+	<summary>
+_oTxtCityBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtProvinceBO">
+	<summary>
+_oTxtProvinceBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtRegionBO">
+	<summary>
+_oTxtRegionBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtZipCodeBO">
+	<summary>
+_oTxtZipCodeBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtLotNoLOCBO">
+	<summary>
+_oTxtLotNoLOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBlkNoLOCBO">
+	<summary>
+_oTxtBlkNoLOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTCTNoLOCBO">
+	<summary>
+_oTxtTCTNoLOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtTDNLOCBO">
+	<summary>
+_oTxtTDNLOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtPINLOCBO">
+	<summary>
+_oTxtPINLOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtStrtLOCBO">
+	<summary>
+_oTxtStrtLOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtBrgyLOCBO">
+	<summary>
+_oTxtBrgyLOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCityLOCBO">
+	<summary>
+_oTxtCityLOCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCBO">
+	<summary>
+_oTxtCTCBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCPlaceIssBO">
+	<summary>
+_oTxtCTCPlaceIssBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtCTCDateIssBO">
+	<summary>
+_oTxtCTCDateIssBO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oBtnSaveBldgOwner">
+	<summary>
+_oBtnSaveBldgOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnSearchMode">
+	<summary>
+_oTxtHdnSearchMode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnSaveModeApplicant">
+	<summary>
+_oTxtHdnSaveModeApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnIDCodeApplicant">
+	<summary>
+_oTxtHdnIDCodeApplicant control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnSaveModeProfessional">
+	<summary>
+_oTxtHdnSaveModeProfessional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnIDCodeProfessional">
+	<summary>
+_oTxtHdnIDCodeProfessional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnSaveModePropOwner">
+	<summary>
+_oTxtHdnSaveModePropOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnIDCodeBldgOwner">
+	<summary>
+_oTxtHdnIDCodeBldgOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnIDCodeLotOwner">
+	<summary>
+_oTxtHdnIDCodeLotOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtActiveModal">
+	<summary>
+_oTxtActiveModal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EIMS_WEB.BUILDING_PERMIT_APPLICATION._oTxtHdnSaveModeApplication">
+	<summary>
+_oTxtHdnSaveModeApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,10 @@
+Time: 01/10/2020 04:25:47 PM
+-----------------------------------------------------------
+Message: Failure sending mail.
+StackTrace:    at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at SPIDC.cDalSendEmail._FnSendEmail() in D:\#TFS\IMC\SPIDC\Classes\cDalSendEmail.vb:line 262
+Source: System
+Exception: System.Net.Mail.SmtpException
+TargetSite: Void Send(System.Net.Mail.MailMessage)
+-----------------------------------------------------------
+

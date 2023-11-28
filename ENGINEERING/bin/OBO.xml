@@ -1,0 +1,6146 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OBO
+</name>
+</assembly>
+<members>
+<member name="F:OBO.LGUappointmentMaster.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster.lblLGU">
+	<summary>
+lblLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster._oLabelUserName">
+	<summary>
+_oLabelUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster._oLabelEmail">
+	<summary>
+_oLabelEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster._oBtnProfile">
+	<summary>
+_oBtnProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster._oBtnChangePass">
+	<summary>
+_oBtnChangePass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster._oBtnLogout">
+	<summary>
+_oBtnLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUappointmentMaster.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ViewImage1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ViewImage1._oLabel_FileName">
+	<summary>
+_oLabel_FileName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ViewImage1.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ViewImage1.Image2">
+	<summary>
+Image2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSPayment._oTextBoxAssessmentNumber">
+	<summary>
+_oTextBoxAssessmentNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSPayment._oTextBoxReferenceDate">
+	<summary>
+_oTextBoxReferenceDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSPayment._oTextBoxAmount">
+	<summary>
+_oTextBoxAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSPayment._oDropDownListGateWay">
+	<summary>
+_oDropDownListGateWay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSPayment.SelectedService">
+	<summary>
+SelectedService control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.DocViewer.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationSuccess.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationSuccess.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationSuccess.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationSuccess.lblOK">
+	<summary>
+lblOK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationSuccess._oReportPreview">
+	<summary>
+_oReportPreview control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationSuccess.btnExportApplicationForm">
+	<summary>
+btnExportApplicationForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationSuccess.btnExportEnvelopSeal">
+	<summary>
+btnExportEnvelopSeal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oGVPermits">
+	<summary>
+_oGVPermits control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oGVIssuedPermits">
+	<summary>
+_oGVIssuedPermits control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtLName">
+	<summary>
+_oTxtLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtFName">
+	<summary>
+_oTxtFName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtMName">
+	<summary>
+_oTxtMName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtFormofOwnership">
+	<summary>
+_oTxtFormofOwnership control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtTINNo">
+	<summary>
+_oTxtTINNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtNoStrt">
+	<summary>
+_oTxtNoStrt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtBrgy">
+	<summary>
+_oTxtBrgy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtCity">
+	<summary>
+_oTxtCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtProvince">
+	<summary>
+_oTxtProvince control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtZIPCode">
+	<summary>
+_oTxtZIPCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtEmail">
+	<summary>
+_oTxtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtTelNo">
+	<summary>
+_oTxtTelNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtLotNoLOC">
+	<summary>
+_oTxtLotNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtBlkNoLOC">
+	<summary>
+_oTxtBlkNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtStreetLOC">
+	<summary>
+_oTxtStreetLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtBrgyLOC">
+	<summary>
+_oTxtBrgyLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtCityLOC">
+	<summary>
+_oTxtCityLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtTCTNo">
+	<summary>
+_oTxtTCTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtTDN">
+	<summary>
+_oTxtTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oTxtTotArea">
+	<summary>
+_oTxtTotArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits._oGvUpload">
+	<summary>
+_oGvUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.div1">
+	<summary>
+div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.ltEmbed">
+	<summary>
+ltEmbed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnName">
+	<summary>
+hdnName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnType">
+	<summary>
+hdnType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnData">
+	<summary>
+hdnData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnaction">
+	<summary>
+hdnaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnTransID">
+	<summary>
+hdnTransID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnReqCode">
+	<summary>
+hdnReqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnAppNo">
+	<summary>
+hdnAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnISFileName">
+	<summary>
+hdnISFileName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnISFileData">
+	<summary>
+hdnISFileData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Permits.hdnISFileType">
+	<summary>
+hdnISFileType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.SendEmailWithAttachment.txtTo">
+	<summary>
+txtTo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.SendEmailWithAttachment.txtSubject">
+	<summary>
+txtSubject control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.SendEmailWithAttachment.txtBody">
+	<summary>
+txtBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.SendEmailWithAttachment.fuAttachment">
+	<summary>
+fuAttachment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.SendEmailWithAttachment.txtHost">
+	<summary>
+txtHost control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.SendEmailWithAttachment.txtPort">
+	<summary>
+txtPort control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.SendEmailWithAttachment.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.SendEmailWithAttachment.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OBO.Resources._gResxPagesNotes.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OBO.Resources._gResxPagesNotes.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OBO.Resources._gResxPagesNotes.pUnableToProcessBilling">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="T:OBO.Resources._gResxPagesNotes">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:OBO.ApplicationReview.script_manager">
+	<summary>
+script_manager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oGvUpdated">
+	<summary>
+_oGvUpdated control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oGVReview">
+	<summary>
+_oGVReview control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oGVAssessment">
+	<summary>
+_oGVAssessment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oGVORRelease">
+	<summary>
+_oGVORRelease control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oGVPermitRelease">
+	<summary>
+_oGVPermitRelease control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oGVFollowUp">
+	<summary>
+_oGVFollowUp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oGVCancelApp">
+	<summary>
+_oGVCancelApp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtLName">
+	<summary>
+_oTxtLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtFName">
+	<summary>
+_oTxtFName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtMName">
+	<summary>
+_oTxtMName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtFormofOwnership">
+	<summary>
+_oTxtFormofOwnership control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtTINNo">
+	<summary>
+_oTxtTINNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtNoStrt">
+	<summary>
+_oTxtNoStrt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtBrgy">
+	<summary>
+_oTxtBrgy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtCity">
+	<summary>
+_oTxtCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtProvince">
+	<summary>
+_oTxtProvince control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtZIPCode">
+	<summary>
+_oTxtZIPCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtEmailInfo">
+	<summary>
+_oTxtEmailInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtTelNo">
+	<summary>
+_oTxtTelNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtLotNoLOC">
+	<summary>
+_oTxtLotNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtBlkNoLOC">
+	<summary>
+_oTxtBlkNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtStreetLOC">
+	<summary>
+_oTxtStreetLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtBrgyLOC">
+	<summary>
+_oTxtBrgyLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtCityLOC">
+	<summary>
+_oTxtCityLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtPINNo">
+	<summary>
+_oTxtPINNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtTCTNo">
+	<summary>
+_oTxtTCTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtTDN">
+	<summary>
+_oTxtTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtTotArea">
+	<summary>
+_oTxtTotArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._obtnProceed">
+	<summary>
+_obtnProceed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.div1">
+	<summary>
+div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._otxtEmail">
+	<summary>
+_otxtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview._oTxtRemarks">
+	<summary>
+_oTxtRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.param1">
+	<summary>
+param1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.param2">
+	<summary>
+param2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.param3">
+	<summary>
+param3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.hdnemail">
+	<summary>
+hdnemail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.hdntransno">
+	<summary>
+hdntransno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.hdnappno">
+	<summary>
+hdnappno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.btnTest">
+	<summary>
+btnTest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationReview.btnViewProcess">
+	<summary>
+btnViewProcess control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.hdnServedBy">
+	<summary>
+hdnServedBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.AppDateSelected">
+	<summary>
+AppDateSelected control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.GV_AppList">
+	<summary>
+GV_AppList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.GridViewDetails">
+	<summary>
+GridViewDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._otxtEmail">
+	<summary>
+_otxtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.hdnEmail">
+	<summary>
+hdnEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._otxtName">
+	<summary>
+_otxtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.hdnName">
+	<summary>
+hdnName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._otxtAppID">
+	<summary>
+_otxtAppID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.hdnAppID">
+	<summary>
+hdnAppID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._otxtAppDate">
+	<summary>
+_otxtAppDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.hdnAppDate">
+	<summary>
+hdnAppDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._otxtAppType">
+	<summary>
+_otxtAppType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.hdnAppType">
+	<summary>
+hdnAppType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._otxtAppPurpose">
+	<summary>
+_otxtAppPurpose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.hdnPurpose">
+	<summary>
+hdnPurpose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._otxtAppServedBy">
+	<summary>
+_otxtAppServedBy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment._otxtAppRemarks">
+	<summary>
+_otxtAppRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.hdnStatus">
+	<summary>
+hdnStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUAppointment.btnPrint">
+	<summary>
+btnPrint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster.lguname">
+	<summary>
+lguname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster._oLabelUserName">
+	<summary>
+_oLabelUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster._oLabelEmail">
+	<summary>
+_oLabelEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster._oBtnProfile">
+	<summary>
+_oBtnProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster._oBtnChangePass">
+	<summary>
+_oBtnChangePass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster._oBtnLogout">
+	<summary>
+_oBtnLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster.Cloading">
+	<summary>
+Cloading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster.NextLoading">
+	<summary>
+NextLoading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster.Div1">
+	<summary>
+Div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUPermitMaster._DisplayLoading">
+	<summary>
+_DisplayLoading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OBO.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OBO.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OBO.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:OBO.ApplicationPermit._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oGVNewApplication">
+	<summary>
+_oGVNewApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oGVDisapproved">
+	<summary>
+_oGVDisapproved control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oGVNewPayment">
+	<summary>
+_oGVNewPayment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oGVTransactions">
+	<summary>
+_oGVTransactions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtLName">
+	<summary>
+_oTxtLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtFName">
+	<summary>
+_oTxtFName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtMName">
+	<summary>
+_oTxtMName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oDLL_FormofOwnership">
+	<summary>
+_oDLL_FormofOwnership control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtTINNo">
+	<summary>
+_oTxtTINNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtNoStrt">
+	<summary>
+_oTxtNoStrt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtBrgy">
+	<summary>
+_oTxtBrgy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtCity">
+	<summary>
+_oTxtCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtProvince">
+	<summary>
+_oTxtProvince control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtZIPCode">
+	<summary>
+_oTxtZIPCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtEmail">
+	<summary>
+_oTxtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtTelNo">
+	<summary>
+_oTxtTelNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtLotNoLOC">
+	<summary>
+_oTxtLotNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtBlkNoLOC">
+	<summary>
+_oTxtBlkNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtStreetLOC">
+	<summary>
+_oTxtStreetLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtBrgyLOC">
+	<summary>
+_oTxtBrgyLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtCityLOC">
+	<summary>
+_oTxtCityLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtTCTNo">
+	<summary>
+_oTxtTCTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtTDN">
+	<summary>
+_oTxtTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oTxtTotArea">
+	<summary>
+_oTxtTotArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oGvUpload">
+	<summary>
+_oGvUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oGvUploadViewOnly">
+	<summary>
+_oGvUploadViewOnly control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit._oBtnUploadRequirements">
+	<summary>
+_oBtnUploadRequirements control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.div1">
+	<summary>
+div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.ltEmbed">
+	<summary>
+ltEmbed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnAppNo">
+	<summary>
+hdnAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdntransno">
+	<summary>
+hdntransno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnsvcdesc">
+	<summary>
+hdnsvcdesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnsvctype">
+	<summary>
+hdnsvctype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnappname">
+	<summary>
+hdnappname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnName">
+	<summary>
+hdnName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnType">
+	<summary>
+hdnType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnData">
+	<summary>
+hdnData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnTransID">
+	<summary>
+hdnTransID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplicationPermit.hdnloc">
+	<summary>
+hdnloc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oGvBldgPermit_OccUse">
+	<summary>
+_oGvBldgPermit_OccUse control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO.btnTest">
+	<summary>
+btnTest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oCbDivision">
+	<summary>
+_oCbDivision control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oCbOccuClass">
+	<summary>
+_oCbOccuClass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oTxtFlrArea">
+	<summary>
+_oTxtFlrArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oGvAccessory">
+	<summary>
+_oGvAccessory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oBtnSaveAssessment">
+	<summary>
+_oBtnSaveAssessment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO._oBtnApprovePayment">
+	<summary>
+_oBtnApprovePayment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO.param1">
+	<summary>
+param1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSMENT_OBO.param2">
+	<summary>
+param2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.GenerateQR.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.GenerateQR.txtQRCode">
+	<summary>
+txtQRCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.GenerateQR.btnGenerate">
+	<summary>
+btnGenerate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.GenerateQR.PlaceHolder1">
+	<summary>
+PlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMSLogin.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMSLogin._oTxtUsername">
+	<summary>
+_oTxtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMSLogin.lblusererror">
+	<summary>
+lblusererror control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMSLogin._oTxtPassword">
+	<summary>
+_oTxtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMSLogin.lblpasserr">
+	<summary>
+lblpasserr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EmailSent.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.UnderMaintenance.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.UnderMaintenance.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OBO.Resources._gResxPagesExternal.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OBO.Resources._gResxPagesExternal.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OBO.Resources._gResxPagesExternal.VS2014_WA_OAIMS_Home">
+	<summary>
+  Looks up a localized string similar to /pages/overture/home/pHome.aspx.
+</summary>
+</member><member name="P:OBO.Resources._gResxPagesExternal.VS2014_WA_OAIMS_SignIn">
+	<summary>
+  Looks up a localized string similar to /pages/business/shell/SignIn/pSignIn.aspx.
+</summary>
+</member><member name="P:OBO.Resources._gResxPagesExternal.VS2014_WA_OAIMS_SignUp">
+	<summary>
+  Looks up a localized string similar to /pages/business/shell/SignUp/pSignUp.aspx.
+</summary>
+</member><member name="T:OBO.Resources._gResxPagesExternal">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:OBO.RPTIMSAssessmentBilling._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling.Slide_01">
+	<summary>
+Slide_01 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling.RPTSearch">
+	<summary>
+RPTSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling._oGridViewRPT">
+	<summary>
+_oGridViewRPT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling._oTextBoxTDN">
+	<summary>
+_oTextBoxTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling.hdnFldSelectedValues">
+	<summary>
+hdnFldSelectedValues control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling.SelectedAcctNo">
+	<summary>
+SelectedAcctNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling._oTextBoxBillingDate">
+	<summary>
+_oTextBoxBillingDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling.RadioQtr1">
+	<summary>
+RadioQtr1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling.RadioQtr2">
+	<summary>
+RadioQtr2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling.RadioQtr3">
+	<summary>
+RadioQtr3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling.RadioQtr4">
+	<summary>
+RadioQtr4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling._oTextBoxYear">
+	<summary>
+_oTextBoxYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling._oGridViewBillingTemp">
+	<summary>
+_oGridViewBillingTemp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSAssessmentBilling._oMSRV">
+	<summary>
+_oMSRV control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oLblFormHeader">
+	<summary>
+_oLblFormHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION.Div_AppInfo">
+	<summary>
+Div_AppInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtLName">
+	<summary>
+_oTxtLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtFName">
+	<summary>
+_oTxtFName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtMName">
+	<summary>
+_oTxtMName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtFormofOwnership">
+	<summary>
+_oTxtFormofOwnership control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oDropDownClassification">
+	<summary>
+_oDropDownClassification control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtTINNo">
+	<summary>
+_oTxtTINNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtCTCNo">
+	<summary>
+_oTxtCTCNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtCTCDateIssued">
+	<summary>
+_oTxtCTCDateIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtCTCPlaceIssued">
+	<summary>
+_oTxtCTCPlaceIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtNoStrt">
+	<summary>
+_oTxtNoStrt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtBrgy">
+	<summary>
+_oTxtBrgy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtCity">
+	<summary>
+_oTxtCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtProvince">
+	<summary>
+_oTxtProvince control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtZIPCode">
+	<summary>
+_oTxtZIPCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtUserID">
+	<summary>
+_oTxtUserID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtEmail">
+	<summary>
+_oTxtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtTelNo">
+	<summary>
+_oTxtTelNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtLotNoLOC">
+	<summary>
+_oTxtLotNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtBlkNoLOC">
+	<summary>
+_oTxtBlkNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION.Slide_07_SelectedStreet">
+	<summary>
+Slide_07_SelectedStreet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION.Slide_07_Street">
+	<summary>
+Slide_07_Street control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtStreetLOC">
+	<summary>
+_oTxtStreetLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION.Slide_07_SelectedBrgy">
+	<summary>
+Slide_07_SelectedBrgy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION.Slide_07_SelectedDistCode">
+	<summary>
+Slide_07_SelectedDistCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION.Slide_07_Brgy">
+	<summary>
+Slide_07_Brgy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtBrgyLOC">
+	<summary>
+_oTxtBrgyLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtCityLOC">
+	<summary>
+_oTxtCityLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtPIN">
+	<summary>
+_oTxtPIN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtTCTNo">
+	<summary>
+_oTxtTCTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtTDN">
+	<summary>
+_oTxtTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtTotArea">
+	<summary>
+_oTxtTotArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oBtnSaveAppInfo">
+	<summary>
+_oBtnSaveAppInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oBtnSaveApplication">
+	<summary>
+_oBtnSaveApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oBtnEdit">
+	<summary>
+_oBtnEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION.UPUpload">
+	<summary>
+UPUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oGvUpload">
+	<summary>
+_oGvUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oBtnUploadRequirements">
+	<summary>
+_oBtnUploadRequirements control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oBtnSubmit">
+	<summary>
+_oBtnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_APPLICATION._oTxtHdnEdit">
+	<summary>
+_oTxtHdnEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage.lbllGU">
+	<summary>
+lbllGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage._oLabelUserName">
+	<summary>
+_oLabelUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage._oLabelEmail">
+	<summary>
+_oLabelEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage._oBtnProfile">
+	<summary>
+_oBtnProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage._oBtnChangePassword">
+	<summary>
+_oBtnChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage._oBtnLogout">
+	<summary>
+_oBtnLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage.Cloading">
+	<summary>
+Cloading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage.NextLoading">
+	<summary>
+NextLoading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUOSMainPage.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountOtherTransaction.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountOtherTransaction.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oLabelFormType">
+	<summary>
+_oLabelFormType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtLName">
+	<summary>
+_oTxtLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtFName">
+	<summary>
+_oTxtFName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtMName">
+	<summary>
+_oTxtMName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtFormofOwnership">
+	<summary>
+_oTxtFormofOwnership control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtTINNo">
+	<summary>
+_oTxtTINNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtNoStrt">
+	<summary>
+_oTxtNoStrt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtBrgy">
+	<summary>
+_oTxtBrgy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtCity">
+	<summary>
+_oTxtCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtProvince">
+	<summary>
+_oTxtProvince control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtZIPCode">
+	<summary>
+_oTxtZIPCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtEmail">
+	<summary>
+_oTxtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtTelNo">
+	<summary>
+_oTxtTelNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtLotNoLOC">
+	<summary>
+_oTxtLotNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtBlkNoLOC">
+	<summary>
+_oTxtBlkNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtStreetLOC">
+	<summary>
+_oTxtStreetLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtBrgyLOC">
+	<summary>
+_oTxtBrgyLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtCityLOC">
+	<summary>
+_oTxtCityLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtTCTNo">
+	<summary>
+_oTxtTCTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtTDN">
+	<summary>
+_oTxtTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtTotArea">
+	<summary>
+_oTxtTotArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oBtnSaveApplication">
+	<summary>
+_oBtnSaveApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oBtnEdit">
+	<summary>
+_oBtnEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication.UPUpload">
+	<summary>
+UPUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oGvUpload">
+	<summary>
+_oGvUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oBtnUploadRequirements">
+	<summary>
+_oBtnUploadRequirements control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oBtnSubmit">
+	<summary>
+_oBtnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication._oTxtHdnEdit">
+	<summary>
+_oTxtHdnEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ApplyApplication.__VIEWSTATE">
+	<summary>
+__VIEWSTATE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack.txtInitial">
+	<summary>
+txtInitial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack.h5">
+	<summary>
+h5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack.div_OLPayment">
+	<summary>
+div_OLPayment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack.BIN_ASSESSNO">
+	<summary>
+BIN_ASSESSNO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack._oLabelacctID">
+	<summary>
+_oLabelacctID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack._oLabelTransactionNumber">
+	<summary>
+_oLabelTransactionNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack._oLabelTransactionType">
+	<summary>
+_oLabelTransactionType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack._oLabelTDN">
+	<summary>
+_oLabelTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack._oLabelPeriodCovered">
+	<summary>
+_oLabelPeriodCovered control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack._oLabelDateTime">
+	<summary>
+_oLabelDateTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack.LBLAMOUNT">
+	<summary>
+LBLAMOUNT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack._oLabelAmount">
+	<summary>
+_oLabelAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentPostBack.LBLnOTE">
+	<summary>
+LBLnOTE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PostEPermit._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PostEPermit._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PostEPermit._oTxtTransNo">
+	<summary>
+_oTxtTransNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PostEPermit._oTxtAppNo">
+	<summary>
+_oTxtAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PostEPermit._oTxtFullName">
+	<summary>
+_oTxtFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PostEPermit._oTxtPermitType">
+	<summary>
+_oTxtPermitType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PostEPermit.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PostEPermit._oBtnConfirmUpload">
+	<summary>
+_oBtnConfirmUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.EmailBcc01">
+	<summary>
+  Looks up a localized string similar to help.desk.spidc@gmail.com.
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.EmailCc01">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.EmailClientPassword">
+	<summary>
+  Looks up a localized string similar to #@VeryStr0ngS@P@ssw0rd102476.
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.EmailClientUserName">
+	<summary>
+  Looks up a localized string similar to web.master.spidc@gmail.com.
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.EmailFrom">
+	<summary>
+  Looks up a localized string similar to web.master.spidc@gmail.com.
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.EmailSubject">
+	<summary>
+  Looks up a localized string similar to Email Verification and Account Activation..
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.MailBody">
+	<summary>
+  Looks up a localized string similar to &lt;br /&gt;
+&lt;div style="font-family: 'Lucida Sans';"&gt;
+    &lt;div&gt;
+        &lt;br /&gt;
+        &lt;b&gt;Sender:&lt;/b&gt;&lt;br /&gt;
+        Systems Administrator&lt;br /&gt;
+        web.master.spidc@gmail.com&lt;br /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;&lt;br /&gt;&lt;/div&gt;
+    &lt;div&gt;
+        [Replace:_nDate]&lt;br /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;&lt;br /&gt;&lt;/div&gt;
+    &lt;div&gt;
+        &lt;b&gt;Recipient:&lt;/b&gt;&lt;br /&gt;
+        [Replace:_nFirstName] [Replace:_nLastName]&lt;br /&gt;
+        Email: [Replace:_nUserID]&lt;br /&gt;
+    &lt;/div&gt;
+    &lt;div&gt;&lt;br /&gt;&lt;/div&gt;
+    &lt;div style="color: blue;"&gt;
+   [rest of string was truncated]";.
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.MailFooter">
+	<summary>
+  Looks up a localized string similar to &lt;hr /&gt;
+&lt;div style="background-color: yellow; font-size: small; color: blue; font-family: 'Lucida Sans';"&gt;
+    &lt;div&gt;
+        &lt;br /&gt;
+        &lt;div style="font-size: medium;"&gt;
+            Systems &amp; Plan Integrator &amp; Development Corporation (&lt;b&gt;SPIDC&lt;/b&gt;)
+        &lt;/div&gt;          
+        &lt;div&gt;
+            Copyright &amp;#169 2013 All Rights Reserved.
+        &lt;/div&gt;
+        &lt;br /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;.
+</summary>
+</member><member name="P:OBO.Resources._gResxMailContentActivation.MailHeader">
+	<summary>
+  Looks up a localized string similar to &lt;hr /&gt;
+&lt;div style="background-color: yellow; font-size: small; color: blue; font-family: 'Lucida Sans';"&gt;
+    &lt;div&gt;
+        &lt;br /&gt;
+        &lt;div style="font-size: medium;"&gt;
+            Online Account Information Management System (&lt;b&gt;OAIMS&lt;/b&gt;)
+        &lt;/div&gt;
+        &lt;div&gt;
+            Government Application Softwares (&lt;b&gt;GAS&lt;/b&gt;)
+        &lt;/div&gt;
+        &lt;div style="color: red;"&gt;
+            &lt;i&gt;Setting the Standards in Automating Local Government Operations...&lt;/i&gt;
+        &lt;/div&gt;
+        &lt;br /&gt;
+   [rest of string was truncated]";.
+</summary>
+</member><member name="T:OBO.Resources._gResxMailContentActivation">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:OBO.cBllAutoIDNo._pFnGetNewIDNo(System.Data.SqlClient.SqlConnection,System.String,System.String,System.String)">
+	<summary>
+ Generates a New ID Number.
+ </summary>
+	<param name="_nCxn">The Connection.</param>
+	<param name="_nAutoIDCode">The Hard-coded "Code" in Table "AutoID".</param>
+	<param name="_nTableName">The Table Name.</param>
+	<param name="_nColumnName">The Column Name.</param>
+	<returns>New ID Number</returns>
+</member><member name="F:OBO.Billing_OBO._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oTxtAppNo">
+	<summary>
+_oTxtAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oTxtAssessmentNo">
+	<summary>
+_oTxtAssessmentNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oTxtTotalDue">
+	<summary>
+_oTxtTotalDue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oTxtTransNo">
+	<summary>
+_oTxtTransNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oTxtFullName">
+	<summary>
+_oTxtFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oTxtPermitType">
+	<summary>
+_oTxtPermitType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oTxtEmailAddress">
+	<summary>
+_oTxtEmailAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oBtnConfirmUpload">
+	<summary>
+_oBtnConfirmUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Billing_OBO._oGvBilling">
+	<summary>
+_oGvBilling control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oTxtAppNo">
+	<summary>
+_oTxtAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oTxtORNo">
+	<summary>
+_oTxtORNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oTxtTransNo">
+	<summary>
+_oTxtTransNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oTxtFullName">
+	<summary>
+_oTxtFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oTxtEmailAddress">
+	<summary>
+_oTxtEmailAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oBtnConfirmUpload">
+	<summary>
+_oBtnConfirmUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EOR._oGvBilling">
+	<summary>
+_oGvBilling control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OBO.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:OBO.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:OBO.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:OBO.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:OBO.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:OBO.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:OBO.ViewImage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ViewImage._oLabel_FileName">
+	<summary>
+_oLabel_FileName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ViewImage.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ViewImage.Image2">
+	<summary>
+Image2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Calendar.htmlBody">
+	<summary>
+htmlBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BPLONotification.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BPLONotification._oHeader">
+	<summary>
+_oHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BPLONotification._oLabel_Content">
+	<summary>
+_oLabel_Content control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.VerifyEmail.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.VerifyEmail.lblOK">
+	<summary>
+lblOK control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.VerifyEmail.link1">
+	<summary>
+link1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OBO.Resources._gResxRdlc.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pAppointment">
+	<summary>
+  Looks up a localized string similar to WebPortal\Report\Appointment.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.payslipReport">
+	<summary>
+  Looks up a localized string similar to PMIPS\PaySlipSheet.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pBillingTOP">
+	<summary>
+  Looks up a localized string similar to WebPortal\Report\BillingTOP.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pLeaveReport">
+	<summary>
+  Looks up a localized string similar to PMIPS\LeaveReport.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pPrintBusinessPayment">
+	<summary>
+  Looks up a localized string similar to WebPortal\_oRdlc_pPrintBusinessPayment.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pPrintCorporationOR">
+	<summary>
+  Looks up a localized string similar to WebPortal\_oRdlc_pPrintORCorporation.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pPrintGeneralCollection">
+	<summary>
+  Looks up a localized string similar to WebPortal\_oRdlc_pPrintGeneralCollection.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pPrintIndividualOR">
+	<summary>
+  Looks up a localized string similar to WebPortal\_oRdlc_pPrintORIndividual.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pReportAppForm_New">
+	<summary>
+  Looks up a localized string similar to WebPortal\Report\BP_ApplicationForm_NEW.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pReportApplicationInfo">
+	<summary>
+  Looks up a localized string similar to WebPortal\Report\ApplicationForm.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pReportDTR">
+	<summary>
+  Looks up a localized string similar to PMIPS\DailyTimeRecordReport.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc.pReportEnvelopeSeal">
+	<summary>
+  Looks up a localized string similar to WebPortal\Report\EnvelopeSeal.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc._oRdlcPDS">
+	<summary>
+  Looks up a localized string similar to PMIPS\PersonalDataSheet.rdlc.
+</summary>
+</member><member name="P:OBO.Resources._gResxRdlc._pReportBilling">
+	<summary>
+  Looks up a localized string similar to VS2014.RPTIMS\Report1.rdlc.
+</summary>
+</member><member name="T:OBO.Resources._gResxRdlc">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:OBO.cHtmlEditor._pSubAdd_HtmlEditor_Basic(System.Object,System.Boolean,System.Boolean)">
+	<summary>
+ Configure the Control as Html Editor in Basic Mode.
+ </summary>
+	<param name="_oControl">The control to convert as Html Editor.</param>
+	<param name="_nReadOnly">if set to <c>true</c> [Html Editor is read only].</param>
+	<param name="_nInitialize">if set to <c>true</c> [Html Editor is initialized].</param>
+</member><member name="M:OBO.cHtmlEditor._pSubAdd_HtmlEditor_Advance(System.Object,System.Boolean,System.Boolean)">
+	<summary>
+ Configure the Control as Html Editor in Advance Mode.
+ </summary>
+	<param name="_oControl">The control to convert as Html Editor.</param>
+	<param name="_nReadOnly">if set to <c>true</c> [Html Editor is read only].</param>
+	<param name="_nInitialize">if set to <c>true</c> [Html Editor is initialized].</param>
+</member><member name="M:OBO.cRegisterScript._pSubOpenInNewWindow(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ This will open the specified URL in a New Tab or New Window.
+ </summary>
+	<param name="_nUrl">The URL of the page to open.</param>
+	<param name="_nTarget">The Target or Name of the window. (1=_blank|2=_parent|3=_self|4=_top|"Name").</param>
+	<param name="_nHeight">The Height(px) of the window. Minimum value is 100.</param>
+	<param name="_nWidth">The Width(px) of the window. Minimum value is 100.</param>
+	<param name="_nTop">The Top(px) position of the window.</param>
+	<param name="_nLeft">The Left(px) position of the window.</param>
+	<param name="_nFullScreen">Whether or not to display the browser in full-screen mode. (1|0|yes|no).</param>
+	<param name="_nLocation">Whether or not to display the address field. (1|0|yes|no).</param>
+	<param name="_nMenuBar">Whether or not to display the menu bar. (1|0|yes|no).</param>
+	<param name="_nResizable">Whether or not the window is resizable. (1|0|yes|no).</param>
+	<param name="_nScrollBars">Whether or not to display scroll bars. (1|0|yes|no).</param>
+	<param name="_nStatus">Whether or not to add a status bar. (1|0|yes|no).</param>
+	<param name="_nTitleBar">Whether or not to display the title bar. (1|0|yes|no).</param>
+	<param name="_nToolBar">Whether or not to display the browser toolbar. (1|0|yes|no).</param>
+	<param name="_nChannelMode">Whether or not to display the window in theater mode. (1|0|yes|no).</param>
+	<param name="_nDirectories">Whether or not to add directory buttons. (1|0|yes|no) (Obselete).</param>
+</member><member name="F:OBO.Register.a1">
+	<summary>
+a1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.TXTTRAPERROR">
+	<summary>
+TXTTRAPERROR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.TXTTRAPERROR2">
+	<summary>
+TXTTRAPERROR2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register._oCBResident">
+	<summary>
+_oCBResident control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.testclick">
+	<summary>
+testclick control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.up1">
+	<summary>
+up1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.lblup1">
+	<summary>
+lblup1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.ForReqDesc">
+	<summary>
+ForReqDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.txtLoginEmail">
+	<summary>
+txtLoginEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.txtLoginPassword">
+	<summary>
+txtLoginPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.btnSignIn">
+	<summary>
+btnSignIn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.btnForgot">
+	<summary>
+btnForgot control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.btnResend">
+	<summary>
+btnResend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.OnlineNow">
+	<summary>
+OnlineNow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.hdnuserid">
+	<summary>
+hdnuserid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.hdnseqid">
+	<summary>
+hdnseqid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.hdnName">
+	<summary>
+hdnName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.hdnType">
+	<summary>
+hdnType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.hdnData">
+	<summary>
+hdnData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Register.testSnackBar">
+	<summary>
+testSnackBar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.TestPostback.txtcontent">
+	<summary>
+txtcontent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.TestPostback.txt1">
+	<summary>
+txt1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.TestPostback.btn1">
+	<summary>
+btn1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage.radFilterOptionTrasactionType">
+	<summary>
+radFilterOptionTrasactionType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage.radFilterOptionForm">
+	<summary>
+radFilterOptionForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage.BtnCancel2">
+	<summary>
+BtnCancel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage.BtnOrPrint2">
+	<summary>
+BtnOrPrint2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage.BtnPost2">
+	<summary>
+BtnPost2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage._oGVTransaction">
+	<summary>
+_oGVTransaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage._oMSRV">
+	<summary>
+_oMSRV control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage._oGVPrintTransaction">
+	<summary>
+_oGVPrintTransaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage.btnSignIn">
+	<summary>
+btnSignIn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGUMainPage.HiddenPath">
+	<summary>
+HiddenPath control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.td_TransactionType">
+	<summary>
+td_TransactionType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.td_Amount">
+	<summary>
+td_Amount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.td_Description">
+	<summary>
+td_Description control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.td_AssessmentNo">
+	<summary>
+td_AssessmentNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.td_OnlineID">
+	<summary>
+td_OnlineID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.btnProceed">
+	<summary>
+btnProceed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.txtInitial">
+	<summary>
+txtInitial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow._oTxtTransacType">
+	<summary>
+_oTxtTransacType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.BIN_ASSSESSNO">
+	<summary>
+BIN_ASSSESSNO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow._oTxtAccNo">
+	<summary>
+_oTxtAccNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow._oTxtAmount">
+	<summary>
+_oTxtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_DBP">
+	<summary>
+div_DBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_OTC">
+	<summary>
+div_OTC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.lbl_OTC">
+	<summary>
+lbl_OTC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_LBP">
+	<summary>
+div_LBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_LBP2">
+	<summary>
+div_LBP2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_PayMaya">
+	<summary>
+div_PayMaya control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_PayMaya2">
+	<summary>
+div_PayMaya2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow._err">
+	<summary>
+_err control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_GCASH">
+	<summary>
+div_GCASH control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_SPIDCPay">
+	<summary>
+div_SPIDCPay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.div_ITBS">
+	<summary>
+div_ITBS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.hdnSelectedBank">
+	<summary>
+hdnSelectedBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.btnPayNow">
+	<summary>
+btnPayNow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow.divPayImg">
+	<summary>
+divPayImg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow._cbredirect">
+	<summary>
+_cbredirect control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.txtLoginEmail">
+	<summary>
+txtLoginEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.txtLoginPassword">
+	<summary>
+txtLoginPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.btnSignIn">
+	<summary>
+btnSignIn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.NextLoading">
+	<summary>
+NextLoading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OAIMS_New.loading">
+	<summary>
+loading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Menu.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EmailNotificationFailed.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EmailNotificationFailed._oHeader">
+	<summary>
+_oHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EmailNotificationFailed._oLabel_Content">
+	<summary>
+_oLabel_Content control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EmailNotificationFailed.Finish_End">
+	<summary>
+Finish_End control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oLblBusID">
+	<summary>
+_oLblBusID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oLblBusOwner">
+	<summary>
+_oLblBusOwner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oLblBusName">
+	<summary>
+_oLblBusName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oLblBusAddress">
+	<summary>
+_oLblBusAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oLblBusCategory">
+	<summary>
+_oLblBusCategory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oLblBusCategory1">
+	<summary>
+_oLblBusCategory1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtFirstName">
+	<summary>
+_oTxtFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtMiddleName">
+	<summary>
+_oTxtMiddleName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtLastName">
+	<summary>
+_oTxtLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtSufix">
+	<summary>
+_oTxtSufix control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtGender">
+	<summary>
+_oTxtGender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtOwnerAddress">
+	<summary>
+_oTxtOwnerAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtBarangay1">
+	<summary>
+_oTxtBarangay1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtZIPPostalCode1">
+	<summary>
+_oTxtZIPPostalCode1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtCommercialName">
+	<summary>
+_oTxtCommercialName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtCommercialAddress">
+	<summary>
+_oTxtCommercialAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtBarangay2">
+	<summary>
+_oTxtBarangay2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtZIPPostalCode2">
+	<summary>
+_oTxtZIPPostalCode2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtMobileNumber">
+	<summary>
+_oTxtMobileNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtTelNumber">
+	<summary>
+_oTxtTelNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._oTxtEmailAddress">
+	<summary>
+_oTxtEmailAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.AccountInformation._obtnPrint">
+	<summary>
+_obtnPrint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oTxtAppNo">
+	<summary>
+_oTxtAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oTxtPermitNo">
+	<summary>
+_oTxtPermitNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oTxtPermitDesc">
+	<summary>
+_oTxtPermitDesc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oTxtTransNo">
+	<summary>
+_oTxtTransNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oTxtFullName">
+	<summary>
+_oTxtFullName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oTxtEmailAddress">
+	<summary>
+_oTxtEmailAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oBtnConfirmUpload">
+	<summary>
+_oBtnConfirmUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Post_EPermit._oGvBilling">
+	<summary>
+_oGvBilling control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OBO.Resources.rPages_VS2014WAOAIMS.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OBO.Resources.rPages_VS2014WAOAIMS.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OBO.Resources.rPages_VS2014WAOAIMS.pEmailVerification">
+	<summary>
+  Looks up a localized string similar to ~//pEmailVerification.aspx.
+</summary>
+</member><member name="T:OBO.Resources.rPages_VS2014WAOAIMS">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.BPLTAS_DataReadBusmastDetailedA">
+	<summary>
+  Looks up a localized string similar to [sp.VS2014.WA.BPLTIMS.OPS.DataRead.Busmast.Detailed.A].
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.RegisteredBusinessApplication_DeleteBusinessAccount">
+	<summary>
+  Looks up a localized string similar to [sp.VS2014.WA.BPLTIMS.OPS.RegisteredBusinessApplication.DataWrite.Delete.Business.Account].
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.RegisteredBusinessApplication_EnrollBusinessAccount">
+	<summary>
+  Looks up a localized string similar to [sp.VS2014.WA.BPLTIMS.OPS.RegisteredBusinessApplication.DataWrite.Enroll.Business.Account].
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.Registered_GenerateKeyToken">
+	<summary>
+  Looks up a localized string similar to [sp.VS2014.WA.OAIMS.Registered.DataWrite.Generate.KeyToken].
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.Registered_GetBillingSummary">
+	<summary>
+  Looks up a localized string similar to [sp.VS2014.WA.BPLTIMS.OPS.RegisteredBusinessPayments.DataRead.Get.BillingSummary].
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.Registered_GetUserDetails">
+	<summary>
+  Looks up a localized string similar to [sp.VS2014.WA.OAIMS.Registered.DataRead.Get.UserDetails].
+</summary>
+</member><member name="P:OBO.Resources._gResxStoredProcedures.Registered_VerifyIfValidKeyToken">
+	<summary>
+  Looks up a localized string similar to [sp.VS2014.WA.OAIMS.Registered.DataRead.Verify.If.Valid.KeyToken].
+</summary>
+</member><member name="T:OBO.Resources._gResxStoredProcedures">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:OBO.OSMainPage.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.lguname">
+	<summary>
+lguname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage._oLabelUserName">
+	<summary>
+_oLabelUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage._oLabelEmail">
+	<summary>
+_oLabelEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage._oBtnProfile">
+	<summary>
+_oBtnProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage._oBtnChangePass">
+	<summary>
+_oBtnChangePass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage._oBtnLogout">
+	<summary>
+_oBtnLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.liElectrical">
+	<summary>
+liElectrical control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.liMechanical">
+	<summary>
+liMechanical control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.liOccupancy">
+	<summary>
+liOccupancy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.liSanitary">
+	<summary>
+liSanitary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.Cloading">
+	<summary>
+Cloading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.NextLoading">
+	<summary>
+NextLoading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.OSMainPage.Div1">
+	<summary>
+Div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMS_MASTER.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMS_MASTER.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMS_MASTER.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.EIMS_MASTER.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OBO.Resources.rPages_VS2014WABPLTIMS.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OBO.Resources.rPages_VS2014WABPLTIMS.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OBO.Resources.rPages_VS2014WABPLTIMS.pBPLOReview">
+	<summary>
+  Looks up a localized string similar to ~/VS2014.BPLTIMS/BPLOReview/BPLTIMS_BPLOReview.aspx.
+</summary>
+</member><member name="P:OBO.Resources.rPages_VS2014WABPLTIMS.pReport">
+	<summary>
+  Looks up a localized string similar to ~/VS2014.BPLTIMS/Report/Report.aspx.
+</summary>
+</member><member name="T:OBO.Resources.rPages_VS2014WABPLTIMS">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:OBO.ResetPassword.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ResetPassword._oTextboxNewPass">
+	<summary>
+_oTextboxNewPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ResetPassword._oTextboxConfirmNewPass">
+	<summary>
+_oTextboxConfirmNewPass control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ResetPassword.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation.PaymentTitle">
+	<summary>
+PaymentTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation.div_OLPayment">
+	<summary>
+div_OLPayment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation.ID_Desc">
+	<summary>
+ID_Desc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation._oLabelacctID">
+	<summary>
+_oLabelacctID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PaymentConfirmation.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtTransNo">
+	<summary>
+_oTxtTransNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtServiceType">
+	<summary>
+_oTxtServiceType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtLName">
+	<summary>
+_oTxtLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtFName">
+	<summary>
+_oTxtFName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtMName">
+	<summary>
+_oTxtMName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtFormofOwnership">
+	<summary>
+_oTxtFormofOwnership control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oDropDownClassification">
+	<summary>
+_oDropDownClassification control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtTINNo">
+	<summary>
+_oTxtTINNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtCTCNo">
+	<summary>
+_oTxtCTCNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtCTCDateIssued">
+	<summary>
+_oTxtCTCDateIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtCTCPlaceIssued">
+	<summary>
+_oTxtCTCPlaceIssued control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtNoStrt">
+	<summary>
+_oTxtNoStrt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtBrgy">
+	<summary>
+_oTxtBrgy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtCity">
+	<summary>
+_oTxtCity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtProvince">
+	<summary>
+_oTxtProvince control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtZIPCode">
+	<summary>
+_oTxtZIPCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtRegEmail">
+	<summary>
+_oTxtRegEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtEmail">
+	<summary>
+_oTxtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtTelNo">
+	<summary>
+_oTxtTelNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtLotNoLOC">
+	<summary>
+_oTxtLotNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtBlkNoLOC">
+	<summary>
+_oTxtBlkNoLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtStreetLOC">
+	<summary>
+_oTxtStreetLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtBrgyLOC">
+	<summary>
+_oTxtBrgyLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtCityLOC">
+	<summary>
+_oTxtCityLOC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtPIN">
+	<summary>
+_oTxtPIN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtTCTNo">
+	<summary>
+_oTxtTCTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtTDN">
+	<summary>
+_oTxtTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtTotArea">
+	<summary>
+_oTxtTotArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oGvUpload">
+	<summary>
+_oGvUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.btnDownloadAll">
+	<summary>
+btnDownloadAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oCbFindings">
+	<summary>
+_oCbFindings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtComments">
+	<summary>
+_oTxtComments control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oBtnSave">
+	<summary>
+_oBtnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._obtnNotifyClient">
+	<summary>
+_obtnNotifyClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.div1">
+	<summary>
+div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.ltEmbed">
+	<summary>
+ltEmbed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._oTxtRemarks">
+	<summary>
+_oTxtRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO._obtnConfirmStatus">
+	<summary>
+_obtnConfirmStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.hdnName">
+	<summary>
+hdnName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.hdnType">
+	<summary>
+hdnType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.hdnData">
+	<summary>
+hdnData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.hdnaction">
+	<summary>
+hdnaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.hdnTransID">
+	<summary>
+hdnTransID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.hdnReqCode">
+	<summary>
+hdnReqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.hdnAppNo">
+	<summary>
+hdnAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.BUILDINGPERMIT_OBO.hdnseqid">
+	<summary>
+hdnseqid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSORNotification.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSORNotification._oHeader">
+	<summary>
+_oHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.ASSESSORNotification._oLabel_Content">
+	<summary>
+_oLabel_Content control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_LName">
+	<summary>
+txt_LName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_Fname">
+	<summary>
+txt_Fname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_Mname">
+	<summary>
+txt_Mname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_Suffix">
+	<summary>
+txt_Suffix control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_Email">
+	<summary>
+txt_Email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_BillingValidityDate">
+	<summary>
+txt_BillingValidityDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_URL_Origin">
+	<summary>
+txt_URL_Origin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_SPIDCREFNO">
+	<summary>
+txt_SPIDCREFNO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_TransactionType">
+	<summary>
+txt_TransactionType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.txt_ACCTNO">
+	<summary>
+txt_ACCTNO control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.cmb_PaymentOptions">
+	<summary>
+cmb_PaymentOptions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.lbl_SPIDCFEE">
+	<summary>
+lbl_SPIDCFEE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.lbl_OtherFee">
+	<summary>
+lbl_OtherFee control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.lbl_RawAmount">
+	<summary>
+lbl_RawAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.lbl_TotalAmount">
+	<summary>
+lbl_TotalAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.PayNow2.btn_Paynow">
+	<summary>
+btn_Paynow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Success.lblHeader">
+	<summary>
+lblHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.lguname">
+	<summary>
+lguname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text1">
+	<summary>
+Text1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text2">
+	<summary>
+Text2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text3">
+	<summary>
+Text3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text4">
+	<summary>
+Text4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text5">
+	<summary>
+Text5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text6">
+	<summary>
+Text6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text7">
+	<summary>
+Text7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text8">
+	<summary>
+Text8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text10">
+	<summary>
+Text10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text9">
+	<summary>
+Text9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text11">
+	<summary>
+Text11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text12">
+	<summary>
+Text12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text13">
+	<summary>
+Text13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text14">
+	<summary>
+Text14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text15">
+	<summary>
+Text15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text20">
+	<summary>
+Text20 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text16">
+	<summary>
+Text16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text17">
+	<summary>
+Text17 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text18">
+	<summary>
+Text18 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text19">
+	<summary>
+Text19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text21">
+	<summary>
+Text21 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text22">
+	<summary>
+Text22 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text23">
+	<summary>
+Text23 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Details.Text24">
+	<summary>
+Text24 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry.titleLGU">
+	<summary>
+titleLGU control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry.lguname">
+	<summary>
+lguname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtLName">
+	<summary>
+_oTxtLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtFName">
+	<summary>
+_oTxtFName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtMName">
+	<summary>
+_oTxtMName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtBirthdate">
+	<summary>
+_oTxtBirthdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtAddress">
+	<summary>
+_oTxtAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtOccupation">
+	<summary>
+_oTxtOccupation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtContactNumber">
+	<summary>
+_oTxtContactNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtHealthFacility">
+	<summary>
+_oTxtHealthFacility control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oTxtReasons">
+	<summary>
+_oTxtReasons control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Vaccination_Registry._oBtnSaveApplication">
+	<summary>
+_oBtnSaveApplication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.ifchckall">
+	<summary>
+ifchckall control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.div_BP_enroll">
+	<summary>
+div_BP_enroll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._otxtEnterBusinessBIN">
+	<summary>
+_otxtEnterBusinessBIN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._otxtEnterBusinessORNo">
+	<summary>
+_otxtEnterBusinessORNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.btnEnroll">
+	<summary>
+btnEnroll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.div_RPT_enroll">
+	<summary>
+div_RPT_enroll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._otxtEnterPropTDN">
+	<summary>
+_otxtEnterPropTDN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._otxtEnterPropORNo">
+	<summary>
+_otxtEnterPropORNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.btnEnrollProp">
+	<summary>
+btnEnrollProp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.div_BP_Renewal">
+	<summary>
+div_BP_Renewal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.div_BP_Payment">
+	<summary>
+div_BP_Payment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._oGVBusinessPayment">
+	<summary>
+_oGVBusinessPayment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.div_RPT">
+	<summary>
+div_RPT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.hdntdn">
+	<summary>
+hdntdn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.hdnpin">
+	<summary>
+hdnpin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.hdnkind">
+	<summary>
+hdnkind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.hdnownername">
+	<summary>
+hdnownername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.hdnlocation">
+	<summary>
+hdnlocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._oGVSelectProperty">
+	<summary>
+_oGVSelectProperty control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._obtnProceed">
+	<summary>
+_obtnProceed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._oGVTransaction">
+	<summary>
+_oGVTransaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.successEnrollment">
+	<summary>
+successEnrollment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account._oBtnOkay">
+	<summary>
+_oBtnOkay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Account.OTC_NOTE">
+	<summary>
+OTC_NOTE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSCertification._oGridViewRequestStatus">
+	<summary>
+_oGridViewRequestStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSCertification.cmbRPTAccount">
+	<summary>
+cmbRPTAccount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSCertification.cmbCertifications">
+	<summary>
+cmbCertifications control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSCertification.txtSelectedRPT">
+	<summary>
+txtSelectedRPT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSCertification.txtSelectedRPTName">
+	<summary>
+txtSelectedRPTName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSCertification.txtSelectedCertificate">
+	<summary>
+txtSelectedCertificate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.RPTIMSCertification.txtSelectedCertificateName">
+	<summary>
+txtSelectedCertificateName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport.ifchckall">
+	<summary>
+ifchckall control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oGridViewSPIDCPay">
+	<summary>
+_oGridViewSPIDCPay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._obtnProceed">
+	<summary>
+_obtnProceed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblCountSPIDCPAY">
+	<summary>
+_oLblCountSPIDCPAY control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblTotalSPIDCPAY">
+	<summary>
+_oLblTotalSPIDCPAY control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oGridViewPostedSPIDCPay">
+	<summary>
+_oGridViewPostedSPIDCPay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblCountPostedSPIDCPay">
+	<summary>
+_oLblCountPostedSPIDCPay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblTotalPostedSPIDCPay">
+	<summary>
+_oLblTotalPostedSPIDCPay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oGridViewUnpaidLandBank">
+	<summary>
+_oGridViewUnpaidLandBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oBtnProceedLBP">
+	<summary>
+_oBtnProceedLBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblCountLandBank">
+	<summary>
+_oLblCountLandBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblTotalLandBank">
+	<summary>
+_oLblTotalLandBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oGridViewPostedLandBank">
+	<summary>
+_oGridViewPostedLandBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblCountPostedLandBank">
+	<summary>
+_oLblCountPostedLandBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblTotalPostedLandBank">
+	<summary>
+_oLblTotalPostedLandBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oGridViewUnpaidDBP">
+	<summary>
+_oGridViewUnpaidDBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblCountUnpaidDBP">
+	<summary>
+_oLblCountUnpaidDBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblTotalUnpaidDBP">
+	<summary>
+_oLblTotalUnpaidDBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oGridViewPostedDBP">
+	<summary>
+_oGridViewPostedDBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblCountPostedDBP">
+	<summary>
+_oLblCountPostedDBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLblTotalPostedDBP">
+	<summary>
+_oLblTotalPostedDBP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oBtnPrint">
+	<summary>
+_oBtnPrint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oMSRV">
+	<summary>
+_oMSRV control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLBLCOUNTALL">
+	<summary>
+_oLBLCOUNTALL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport._oLBLGrandTotal">
+	<summary>
+_oLBLGrandTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport.actid">
+	<summary>
+actid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.LGU_GeneralCollectionReport.ButtonValue">
+	<summary>
+ButtonValue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oLabelSnackbar">
+	<summary>
+_oLabelSnackbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oLabelSnackbargreen">
+	<summary>
+_oLabelSnackbargreen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oTxtTransNo">
+	<summary>
+_oTxtTransNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oTxtName">
+	<summary>
+_oTxtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oTxtLocation">
+	<summary>
+_oTxtLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oGVTOP">
+	<summary>
+_oGVTOP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oTxtTotalAmount">
+	<summary>
+_oTxtTotalAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oBtnUploadRequirements">
+	<summary>
+_oBtnUploadRequirements control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment._oBtnSubmit">
+	<summary>
+_oBtnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.div1">
+	<summary>
+div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.ltEmbed">
+	<summary>
+ltEmbed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnName">
+	<summary>
+hdnName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnType">
+	<summary>
+hdnType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnData">
+	<summary>
+hdnData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnaction">
+	<summary>
+hdnaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnTransID">
+	<summary>
+hdnTransID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnReqCode">
+	<summary>
+hdnReqCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnAppNo">
+	<summary>
+hdnAppNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnISFileName">
+	<summary>
+hdnISFileName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnISFileData">
+	<summary>
+hdnISFileData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Payment.hdnISFileType">
+	<summary>
+hdnISFileType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Sample.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OBO.Sample.Gridview1">
+	<summary>
+Gridview1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

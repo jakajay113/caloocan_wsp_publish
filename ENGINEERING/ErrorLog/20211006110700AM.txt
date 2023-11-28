@@ -1,0 +1,27 @@
+Time: 06/10/2021 11:07:00 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at OBO.cSessionLGUProfile._pGetLGUProfile(String& ctr)
+Source: OBO
+Exception: System.NullReferenceException
+TargetSite: Void _pGetLGUProfile(System.String ByRef)
+-----------------------------------------------------------
+
+Time: 06/10/2021 11:07:00 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at OBO.cSessionLGUProfile._pGetLGUProfile(String& ctr)
+Source: OBO
+Exception: System.NullReferenceException
+TargetSite: Void _pGetLGUProfile(System.String ByRef)
+-----------------------------------------------------------
+
+Time: 06/10/2021 11:07:00 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at OBO.cSessionLGUProfile._pGetLGUProfile(String& ctr)
+Source: OBO
+Exception: System.NullReferenceException
+TargetSite: Void _pGetLGUProfile(System.String ByRef)
+-----------------------------------------------------------
+

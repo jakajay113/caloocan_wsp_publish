@@ -1,0 +1,11 @@
+Time: 25/09/2020 08:28:06 PM
+-----------------------------------------------------------
+Message: The connection cannot be used to perform this operation. It is either closed or invalid in this context.
+StackTrace:    at BPLTAS_BILLING_ONLINE._clssBilling.pSubProcessBilling()
+   at SPIDC.ClassInterop_VB6_BPLTAS._pSubGenerateTOP(Boolean& _xResult) in D:\#TFS\IMC\SPIDC\Classes\ClassInterop_VB6_BPLTAS.vb:line 301
+Source: ADODB.Recordset
+Exception: System.Runtime.InteropServices.COMException
+TargetSite: Void pSubProcessBilling()
+Dll Date Complied: 
+-----------------------------------------------------------
+

@@ -1,0 +1,420 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="~/WebPortal/LGUOSMainPage.Master.vb" Inherits="OBO.LGUOSMainPage"  %>
+<link href="../CSS_JS_IMG/css/newcss/TableResponsiveMB.css" rel="stylesheet" />
+<link href="../CSS_JS_IMG/css/newcss/CssMain.css" rel="stylesheet" />
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link href="../CSS_JS_IMG/OS-JS-CSS/fontawesome-free/css/all.min.css" rel="stylesheet" /> <title runat="server" id="titleLGU">SPIDC Web Portal</title>
+        <link href="../CSS_JS_IMG/OS-JS-CSS/Css/Online-Services.css" rel="stylesheet" />     
+        <script src="../CSS_JS_IMG/OS-JS-CSS/Js/OS-Mobile-View.js"></script>   
+         <link href="../CSS_JS_IMG/css/Sticker.css" rel="stylesheet" />
+
+    <style>         
+        #snackbar {
+    visibility: hidden;  
+    min-width: 200px;
+    margin-left: -125px; 
+    background-color:  #E74C3C;
+    color: #fff;		 
+    text-align: center;
+    border-radius: 2px;  
+    padding: 20px;
+    position: fixed;     
+    z-index: 1;
+    top:100px;
+    right: 30px;
+    font-size: 15px;
+}
+#snackbargreen {
+    visibility: hidden;  
+    min-width: 200px;
+    margin-left: -125px; 
+    background-color:  #4CAF50;
+    color: #fff;		 
+    text-align: center;
+    border-radius: 2px;  
+    padding: 20px;
+    position: fixed;     
+    z-index: 1;
+    top:100px;
+    right: 30px;
+    font-size: 15px;
+}
+
+#snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.2s, fadeout 0.5s 2.5s;
+}
+#snackbargreen.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.2s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {right: 0; opacity: 0;} 
+    to {right: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {right: 0; opacity: 0;}
+    to {right: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {right: 30px; opacity: 1;} 
+    to {top: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {right: 30px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+
+
+    </style>
+
+</head>
+
+<body id="page-top">
+    <div id="wrapper">
+
+        
+
+   
+        <div id="content-wrapper">
+            <div id="content" class="">                
+                <div class="column">
+
+                   <nav class="navbar navbar-expand-lg row py-3 Main-Navbar" style=" background-image: url('../CSS_JS_IMG/img/NavbarDesignIn.jpg') !important;">
+
+    <%-- data-toggle="sticky-onscroll"--%>
+                <table class="col-12">
+                    <tr style="width: 100%; background-color: transparent;">
+                        <td>
+                            <table class="col-12" style="color: white; background-color: transparent">
+
+                                <tr style="color: white; background-color: transparent" class="mx-auto">
+                                    <td style="color: white; background-color: transparent; width: 5%">
+                                        <%--<a class= "align-content-end btn btn-primary btn-circle mr-3" id="sidebarToggle" onclick="activetoggle()"><span class="fa fa-bars"></span></a>  --%>       
+                                    </td>
+                                    <td style="width: 80%; align-items: center" class="my-auto">
+                                        <label runat="server" id="lbllGU" class="font-weight-bold text-white">SPIDC Web Portal</label>  
+                                    </td>
+                                    <td style="width: 10%;">
+                                        <div class="nav-item dropdown no-arrow col">
+                                            <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                <asp:Label ID="_oLabelUserName" runat="server" CssClass="d-none d-lg-inline small Color-White" Text="Welcome" Style="text-align: right" />
+                                                &nbsp
+                                        
+                                        
+                                    <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
+
+
+                                            </a>
+                                            <asp:Label ID="_oLabelEmail" runat="server" CssClass="d-none d-lg-inline small Color-White float-right mr-2" Text="Welcome" Style="text-align: right" />
+                                            <!-- Dropdown - User Information -->
+                                            <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
+                                                <button type="button" runat="server" class="dropdown-item" href="#" id="_oBtnProfile">
+                                                    <i class="fas fa-user fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                    Profile
+                                                </button>
+                                                <button runat="server" class="dropdown-item" href="#" id="_oBtnChangePassword">
+                                                    <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                    Change Password
+                                                </button>
+                                                <%--<button type="button" runat="server" class="dropdown-item" href="#" id="_oBtnActivityLog">
+                                                    <i class="fas fa-list fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                    Activity Log
+                                                </button>--%>
+                                                <div class="dropdown-divider"></div>
+                                                <button type="button" runat="server" class="dropdown-item" href="#" data-toggle="modal" id="_oBtnLogout">
+                                                    <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                                    Logout
+                                                </button>
+                                            </div>
+
+                                        </div>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr style="width: 100%; background-color: transparent;">
+                        <td style="text-align: right">
+                            <span id="_oTxtTime" class="text-white mr-3 small"></span>
+                        </td>
+                        <script type="text/javascript">
+                            function display_c() {
+                                var refresh = 1000; // Refresh rate in milli seconds
+                                mytime = setTimeout('display_ct()', refresh)
+                            }
+
+                            function display_ct() {
+                                const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+                                const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thrusday", "Friday", "Saturday"];
+
+                                var x = new Date()
+                                var hours = x.getHours();
+                                var date = x.toDateString();
+                                var minutes = x.getMinutes();
+                                var seconds = x.getSeconds();
+                                var ampm = hours >= 12 ? 'pm' : 'am';
+                                hours = hours % 12;
+                                hours = hours ? hours : 12; // the hour '0' should be '12'
+                                minutes = minutes < 10 ? '0' + minutes : minutes;
+                                var strTime = days[x.getDay()] + ' ' + months[x.getMonth()] + ' ' + x.getDate() + ', ' + x.getFullYear() + ' ' + hours + ':' + minutes + ':' + seconds + ' ' + ampm;
+                                document.getElementById('_oTxtTime').innerHTML = strTime;
+                                display_c();
+                            }
+
+                            window.onload = display_ct();
+</script>
+                    </tr>
+                </table>
+                <!-- Nav Item - Messages -->
+
+                <!-- Nav Item - User Information -->
+
+            </nav>
+
+                    
+                               
+                               
+                    
+                </div>
+                <div id="Cloading" runat="server">
+            <div class="modal-backdrop fade show">
+            </div>
+            <div class="modal fade show" aria-modal="true" style="padding-right: 17px; display: block;">
+                <div class="d-flex justify-content-center align-content-center">
+
+
+                    <style>
+                        .loader {
+                            border: 16px solid #f3f3f3;
+                            border-radius: 50%;
+                            border-top: 16px solid #3498db;
+                            width: 120px;
+                            height: 120px;
+                            -webkit-animation: spin 2s linear infinite; /* Safari */
+                            animation: spin 2s linear infinite;
+                        }
+
+                        /* Safari */
+                        @-webkit-keyframes spin {
+                            0% {
+                                -webkit-transform: rotate(0deg);
+                            }
+
+                            100% {
+                                -webkit-transform: rotate(360deg);
+                            }
+                        }
+
+                        @keyframes spin {
+                            0% {
+                                transform: rotate(0deg);
+                            }
+
+                            100% {
+                                transform: rotate(360deg);
+                            }
+                        }
+                    </style>
+
+
+
+                    <div class="loader" style="position: absolute; top: 40%;">
+                    </div>
+
+                </div>
+            </div>
+        </div>        
+                    
+        <%--<button type="button" onclick="NextPage()">sa</button> --%>
+        
+        <div id="loadingr" class="modal fade">
+            <div>
+                <div class="loader" style="position: absolute; top: 50%; left: 50%; margin: -15px;">
+                </div>
+            </div>
+        </div>
+                
+                <form id="form1" runat="server">
+                    <div class="d-flex justify-content-center">
+                        <div id="NextLoading" runat="server" style="display: none">
+            <div class="modal-backdrop fade show">
+            </div>
+            <div class="modal fade show" aria-modal="true" style="padding-right: 17px; display: block;">
+                <div class="d-flex justify-content-center align-content-center">
+                    <div class="loader" style="position: absolute; top: 40%;">
+                    </div>
+                </div>
+            </div>
+        </div>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" >
+
+
+                        </asp:ContentPlaceHolder>
+                        
+                    </div>
+                        <script>
+
+                            document.onreadystatechange = function () {
+                                if (document.readyState !== "complete") {
+                                    document.querySelector(
+                                      "#Cloading").style.visibility = "visible";
+                                } else {
+                                    document.querySelector(
+                                      "#Cloading").style.display = "none";
+                                }
+                            };
+
+                            function NextPage() {
+                                document.getElementById(
+                                      "#NextLoading").style.display = "block";
+                            };
+
+</script>
+                </form>
+
+                <br>
+
+
+                <script src="../CSS_JS_IMG/js/newjs//SPIDC-ARC-JS.js"></script>
+                <script src="../CSS_JS_IMG/js/newjs/SPIDC-ARC-JS.min.js"></script>
+
+
+                <footer class="sticky-footer bg-white">
+                    <div class="container my-auto">
+                        <div class="copyright text-center my-auto">
+                            <span>Copyright &copy; Powered by SPIDC 2020</span>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+            
+        </div>
+        <a class="scroll-to-top rounded" href="#page-top" style="display: none;">
+            <i class="fas fa-angle-up"></i>
+        </a>
+        
+    </div>
+        <script src="../CSS_JS_IMG/vendor/jquery/jquery.min.js"></script>
+        <script src="../CSS_JS_IMG/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="../CSS_JS_IMG/vendor/jquery-easing/jquery.easing.min.js"></script>
+        <script src="../CSS_JS_IMG/js/newjs/sb-admin-2.min.js"></script>     
+    
+</body>
+    <script>
+        var jq14 = jQuery.noConflict(true);
+        (function ($) {
+            $(document).ready(function () {
+                // Custom 
+                var stickyToggle = function (sticky, stickyWrapper, scrollElement) {
+                    var stickyHeight = sticky.outerHeight();
+                    var stickyTop = stickyWrapper.offset().top;
+                    if (scrollElement.scrollTop() >= stickyTop) {
+                        stickyWrapper.height(stickyHeight);
+                        sticky.addClass("is-sticky");
+                    }
+                    else {
+                        sticky.removeClass("is-sticky");
+                        stickyWrapper.height('auto');
+                    }
+                };
+
+                // Find all data-toggle="sticky-onscroll" elements
+                $('[data-toggle="sticky-onscroll"]').each(function () {
+                    var sticky = $(this);
+                    var stickyWrapper = $('<div>').addClass('sticky-wrapper'); // insert hidden element to maintain actual top offset on page
+                    sticky.before(stickyWrapper);
+                    sticky.addClass('sticky');
+
+                    // Scroll & resize events
+                    $(window).on('scroll.sticky-onscroll resize.sticky-onscroll', function () {
+                        stickyToggle(sticky, stickyWrapper, $(this));
+                    });
+
+                    // On page load
+                    stickyToggle(sticky, stickyWrapper, $(window));
+                });
+            });
+
+
+            function abc() {
+
+                window.open('ApplicationPermit.aspx'); return false;
+            }
+
+            function def() {
+
+                window.open('ForgotPassword.aspx'); return false;
+            }
+
+            $('.form').find('input, textarea,select').on('keyup blur focus', function (e) {
+
+                var $this = $(this),
+                label = $this.prev('label')
+
+
+                if (e.type === 'keyup' || e.type === 'focus') {
+
+
+
+                    label.addClass('input-txt-active input-txt-highlight');
+
+
+                } else if (e.type === 'blur') {
+                    if ($this.val() === '') {
+                        label.removeClass('input-txt-active input-txt-highlight');
+                    } else {
+                        label.removeClass('input-txt-highlight');
+                    }
+                } else if (e.type === 'focus') {
+
+                    if ($this.val() === '') {
+                        label.removeClass('input-txt-highlight');
+                    } else
+                        if ($this.val() !== '') {
+                            label.addClass('input-txt-highlight');
+                        }
+                }
+
+            });
+
+            $('.tab a').on('click', function (e) {
+
+                e.preventDefault();
+
+                $(this).parent().addClass('active');
+                $(this).parent().siblings().removeClass('active');
+
+                target = $(this).attr('href');
+
+                $('.tab-content > div').not(target).hide();
+
+                $(target).fadeIn(600);
+
+            });
+
+
+        }(jq14));
+
+    </script>
+    
+</html>

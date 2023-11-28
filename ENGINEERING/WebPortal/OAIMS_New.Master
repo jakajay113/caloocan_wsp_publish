@@ -1,0 +1,569 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="OAIMS_New.master.vb" Inherits="OBO.OAIMS_New" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+<head>
+     <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+  <meta charset="utf-8">
+  <title runat="server" id="titleLGU">SPIDC Web Portal</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link href="../CSS_JS_IMG/OS-JS-CSS/fontawesome-free/css/all.min.css" rel="stylesheet" />                  
+  <link href="../CSS_JS_IMG/OS-JS-CSS/Css/Online-Services.css" rel="stylesheet" />   
+
+
+ 
+  
+  <!-- Google Fonts -->
+ <%--<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">--%>
+
+  <!-- Bootstrap CSS File -->
+
+  <!-- Libraries CSS Files -->
+
+    <script src="../CSS_JS_IMG/js/newjs//SPIDC-ARC-JS.js"></script>
+                <script src="../CSS_JS_IMG/js/newjs/SPIDC-ARC-JS.min.js"></script>
+    <script src="../CSS_JS_IMG/OS-JS-CSS/jquery/jquery.min.js"></script>
+        <script src="../CSS_JS_IMG/OS-JS-CSS/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="../CSS_JS_IMG/OS-JS-CSS/jquery-easing/jquery.easing.min.js"></script>
+        <%--<script src="../CSS_JS_IMG/js/newjs/sb-admin-2.min.js"></script>--%>
+        <script src="../CSS_JS_IMG/OS-JS-CSS/Js/Online-Services.js"></script>
+        <script src="../CSS_JS_IMG/OS-JS-CSS/Js/OS-MainPage.js"></script>
+
+              
+
+  <!-- Main Stylesheet File -->
+  <link href=" ../../CSS_JS_IMG/css/style.css" rel="stylesheet">
+    <style>
+        
+        #snackbar {
+    visibility: hidden;  
+    min-width: 200px;
+    margin-left: -125px; 
+    background-color:  #E74C3C;
+    color: #fff;		 
+    text-align: center;
+    border-radius: 2px;  
+    padding: 20px;
+    position: fixed;     
+    z-index: 1;
+    top:100px;
+    right: 30px;
+    font-size: 15px;
+}
+#snackbargreen {
+    visibility: hidden;  
+    min-width: 200px;
+    margin-left: -125px; 
+    background-color:  #4CAF50;
+    color: #fff;		 
+    text-align: center;
+    border-radius: 2px;  
+    padding: 20px;
+    position: fixed;     
+    z-index: 1;
+    top:100px;
+    right: 30px;
+    font-size: 15px;
+}
+
+#snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.2s, fadeout 0.5s 2.5s;
+}
+#snackbargreen.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.2s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {right: 0; opacity: 0;} 
+    to {right: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {right: 0; opacity: 0;}
+    to {right: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {right: 30px; opacity: 1;} 
+    to {top: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {right: 30px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+
+@media only screen and (max-width: 340px), (min-device-width: 200px) and (max-device-width: 340px) {
+            .NavBar-MV:active {
+                display:flex !Important;
+            }.NavBar-MV:before {
+                display:flex !Important;
+            }
+             .NavBar-MV {
+                display:flex !Important;
+            }
+        }
+
+    </style>    
+
+</head>
+
+<body onload="onload()" class="Main-Color" >    
+    <script>
+        function onload() {
+            sessionStorage.setItem("Active", "sAccounts");
+            sessionStorage.setItem("Counter", "");
+        }
+    </script>
+    <form id="form1" runat="server">     
+    <nav class="navbar navbar-expand-lg row py-3 Main-Navbar" style=" background-image: url('../CSS_JS_IMG/img/NavbarDesignIn.jpg') !important;">
+        <%--<a class="navbar-brand text-white py-3 px-4" href="#">
+            <img src=" ../../CSS_JS_IMG/img/logo2.png" alt="logo" style="width: 150px;"></a>--%>
+        <%--<button class="navbar-toggler btn btn-primary" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-brand fa text-white fa-docker"></span>
+        </button>--%>       
+        <div class="NavBar-MV mt-3 col-lg-12" style="display:none">
+
+        </div>       
+        <div class="navbar-collapse text-white collapse show" id="navbarNav">
+            <ul class="nav navbar-nav ml-auto">
+                <li class="nav-item col-lg-5 pt-3">
+                    <div class="m-1 ">
+                        <div>
+                            <label class="input-txt input-txt-active">
+                                <span><span class="m-2" style="color: white">Email Address</span></span>
+                            </label>
+                            <input type="text" id="txtLoginEmail"  onkeyup="GetValEmail();" class="form-control CH-size" runat="server"/>
+                        </div>
+
+                    </div>
+                </li>
+
+                <li class="nav-item col-lg-5 pt-3">
+                    <div class="m-1">
+                        <div>
+                            <label class="input-txt input-txt-active">
+                                <span><span class="m-2" style="color: white">Password</span></span>
+                            </label>
+                             <span class="form-control">
+                                 <input type="password" style="border:none;width:90%" name="txtLoginPassword" id="txtLoginPassword"  onkeyup="GetValPassword();"  runat="server"/>
+                             <i style="display:inline-block;float:right" class="far fa-eye" id="togglePassword"></i>
+       
+                             </span>
+                            
+                        </div>
+
+                        <script>
+                            const togglePassword = document.querySelector('#togglePassword');
+                            const password = document.querySelector('#txtLoginPassword');
+                            togglePassword.addEventListener('click', function (e) {
+                                // toggle the type attribute
+                                const type = password.getAttribute('type') === 'password' ? 'text' : 'password';
+                                password.setAttribute('type', type);
+                                // toggle the eye slash icon
+                                this.classList.toggle('fa-eye-slash');
+                            });
+                        </script>
+
+                    </div>
+                </li>
+                <li class="nav-item col-lg-2 pt-3">
+                    <div class=" ">                       
+                        <button ID="btnSignIn" runat="server" class="btn btn-primary btn-sm border-light" usesubmitbehaiviour="true" onclick="NextPage();">Sign In </button>
+                    </div>
+
+                </li>
+                <li class="nav-item col-sm-4 h-25">
+                    &nbsp
+                   
+                    <a href="#" tabindex="99" data-toggle="modal" data-dismiss="modal" data-target="#Forgot" data-ticket-type="standard-access" class="mr-auto" style="color: white;font-size:small">Forgot password ?</a>
+
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+  <!--==========================
+    Header  #0C1126";
+  ============================-->
+
+
+
+
+
+
+
+     
+        
+      <%--   SNACKBAR--%>
+             <div id="snackbar">
+            <asp:Label runat="server" id="_oLabelSnackbar" />           
+        </div>
+        <div id="snackbargreen" style="position:absolute">>
+            <asp:Label runat="server" id="_oLabelSnackbargreen"/>           
+        </div>
+       <%--   SNACKBAR--%>
+
+               
+
+          <asp:ScriptManager ID="ScriptManager1" runat="server" />
+    <div >
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    </div>
+    
+  <!--==========================
+    Footer
+  ============================-->
+
+  </form>
+
+<%--  <footer id="footer" >
+    <div class="footer-top" style="background-color: #166FB7">
+      <div class="container">
+        <div class="row">
+  
+          <div class="col-lg-3 col-md-6 footer-info">
+                 <img src=" ../../CSS_JS_IMG/img/Logo_SPIDC.png" alt="City of San Jose Del Monte, Bulacan"  style="width:150px;height:150px"/>
+               
+                <p>Republic of the Philippines</p>
+            <p>City of San Jose Del Monte, Bulacan</p></div>
+
+          <div class="col-lg-6 col-md-6 footer-links">
+            <h4>Arya San Joseño</h4>
+            <ul>
+              <li><i class="fa fa-at"></i> <a href="http://SPIDC.gov.ph/">City of San Jose Del Monte Website</a></li>
+           
+              
+            </ul>
+          </div>                 
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+             <p> <strong class="fa fa-map-marker"> &nbsp </strong>City Hall, Poblacion, City of San Jose del Monte, Bulacan </p>  
+             <p>   <strong class="fa fa-phone"> &nbsp  </strong> 044-815-8810</p>  
+              <strong class="fa fa-envelope"> &nbsp  </strong> lgu.SPIDC@gmail.com
+<br>      
+              
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        Powered by <a href="https://www.spidc.com.ph/">SPIDC Solutions</a>
+      </div>
+      <div class="credits">
+      
+      </div>
+    </div>
+  </footer>--%>
+    
+    <!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            // Custom 
+            var stickyToggle = function (sticky, stickyWrapper, scrollElement) {
+                var stickyHeight = sticky.outerHeight();
+                var stickyTop = stickyWrapper.offset().top;
+                if (scrollElement.scrollTop() >= stickyTop) {
+                    stickyWrapper.height(stickyHeight);
+                    sticky.addClass("is-sticky");
+                }
+                else {
+                    sticky.removeClass("is-sticky");
+                    stickyWrapper.height('auto');
+                }
+            };
+
+            // Find all data-toggle="sticky-onscroll" elements
+            $('[data-toggle="sticky-onscroll"]').each(function () {
+                var sticky = $(this);
+                var stickyWrapper = $('<div>').addClass('sticky-wrapper'); // insert hidden element to maintain actual top offset on page
+                sticky.before(stickyWrapper);
+                sticky.addClass('sticky');
+
+                // Scroll & resize events
+                $(window).on('scroll.sticky-onscroll resize.sticky-onscroll', function () {
+                    stickyToggle(sticky, stickyWrapper, $(this));
+                });
+
+                // On page load
+                stickyToggle(sticky, stickyWrapper, $(window));
+            });
+        });
+
+
+        function GetValEmail() {
+            var edValue = document.getElementById("_Email");
+
+            var s = edValue.value;
+
+            document.getElementById("txtLoginEmail").value = s;
+
+        }
+
+        function GetValPassword() {
+            var edValue = document.getElementById("_Password");
+
+            var s = edValue.value;
+
+            document.getElementById("txtLoginPassword").value = s;
+
+        }
+
+
+
+
+        $('.form').find('input, textarea, select').on('keyup blur focus', function (e) {
+
+            var $this = $(this),
+            label = $this.prev('label', 'input')
+
+            if (e.type === 'keyup' || e.type === 'focus') {
+
+
+
+                label.addClass('input-txt-active input-txt-highlight');
+
+
+            } else if (e.type === 'blur') {
+                if ($this.val() === '') {
+                    label.removeClass('input-txt-active input-txt-highlight');
+                } else {
+                    label.removeClass('input-txt-highlight');
+                }
+            } else if (e.type === 'focus') {
+
+                if ($this.val() === '') {
+                    label.removeClass('input-txt-highlight');
+                } else
+                    if ($this.val() !== '') {
+                        label.addClass('input-txt-highlight');
+                    }
+            }
+
+        });
+
+        $('.tab a').on('click', function (e) {
+
+            e.preventDefault();
+
+            $(this).parent().addClass('active');
+            $(this).parent().siblings().removeClass('active');
+
+            target = $(this).attr('href');
+
+            $('.tab-content > div').not(target).hide();
+
+            $(target).fadeIn(600);
+
+        });
+
+
+
+
+
+
+        </script>  
+    <script>function NextPage() { document.getElementById("NextLoading").style.display = "block"; }</script>
+<div id="NextLoading" runat="server" style="display:none">
+        <div class="modal-backdrop fade show">
+
+        </div> 
+<div class="modal fade show" aria-modal="true" style="padding-right: 17px; display: block;">
+        <div class="d-flex justify-content-center align-content-center">
+
+
+                        <style>
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+
+
+
+<div class="loader" style="                  
+    position: absolute;
+    top: 40%;        
+ "></div>
+
+</div>
+                </div></div>
+    <script>
+
+        document.onreadystatechange = function () {
+            if (document.readyState !== "complete") {
+                document.querySelector(
+                  "#loading").style.visibility = "visible";
+            } else {
+                document.querySelector(
+                  "#loading").style.display = "none";
+            }
+        };
+
+        function Lodingscreen() {
+            if (document.readyState !== "complete") {
+                document.querySelector(
+                  "#loading").style.visibility = "visible";
+            } else {
+                document.querySelector(
+                  "#loading").style.display = "none";
+            }
+        };
+
+</script>
+
+
+<div id="loading" runat="server">
+        <div class="modal-backdrop fade show">
+
+        </div> 
+<div class="modal fade show" aria-modal="true" style="padding-right: 17px; display: block;">
+        <div class="d-flex justify-content-center align-content-center">
+
+
+                        <style>
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+
+
+
+<div class="loader" style="                  
+    position: absolute;
+    top: 40%;        
+ "></div>
+
+</div>
+                </div></div>
+
+</body>
+<%--    <!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>     
+      
+          window.fbAsyncInit = function () {
+              FB.init({                 
+                  xfbml: true,
+                  version: 'v9.0'          });
+          };
+
+ 
+          (function (d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+              fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+
+        
+      </script>
+
+      <!-- Your Chat Plugin code 
+          102377038527379 - Mitomi
+          102731694643998 - CALOOCAN
+          -->
+      <div class="fb-customerchat"
+        attribution="setup_tool"
+        page_id="102731694643998">
+      </div>--%>
+   
+
+      <%--CALOOCAN OCBO MESSENGER PLUGIN--%>
+            <!-- Messenger Chat Plugin Code -->
+            <div id="fb-root"></div>
+
+            <!-- Your Chat Plugin code -->
+            <div id="fb-customer-chat" class="fb-customerchat">
+            </div>
+
+            <script>
+                var chatbox = document.getElementById('fb-customer-chat');
+                chatbox.setAttribute("page_id", "104576569160641");
+                chatbox.setAttribute("attribution", "biz_inbox");
+            </script>
+
+            <!-- Your SDK code -->
+            <script>
+                window.fbAsyncInit = function () {
+                    FB.init({
+                        xfbml: true,
+                        version: 'v15.0'
+                    });
+                };
+
+                (function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+            </script>
+     <%--CALOOCAN OCBO MESSENGER PLUGIN--%>
+
+</html>
+
+
